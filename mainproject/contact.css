@@ -1,0 +1,17 @@
+.main2{ border:1px solid #49708A; width:620px; height:500px; margin-left:270px; margin-right:9px; padding:0px; 
+    margin-bottom:10px;  margin-top:0px; background-color: #ffffff;}
+footer{border:2px solid #49708A; 
+    text-align:center; 
+    font-size:10px;
+    background-color:#49708A; 
+    color:white;
+    height:50px;
+    margin:10px 10px 10px 10px;
+    clear:both;}
+    h1{border:1px solid #49708A; font-family:Consolas; font-size:1.1em; margin:10px 10px 10px 10px; color:black;
+    background-color:#49708A; padding:5px; font-weight:normal;
+}
+.i{margin:0px 10px 10px 10px;}
+a:link {color:white; background-color:transparent; text-decoration:none;  }
+a:visited  {color:white; background-color:transparent; text-decoration:none;}
+.kri{background-color:#49708A; height: 650px; font-family:Consolas; padding: 50px;}
